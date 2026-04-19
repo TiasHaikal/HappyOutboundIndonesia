@@ -34,7 +34,7 @@ export default function ValuesSection() {
     },
     {
       icon: "👥",
-      title: "Collaboration",
+      title: "Collaborative",
       description:
         "Sinergi, kebersamaan, dan saling menguatkan. Membangun kerja sama yang solid antara peserta, fasilitator, dan klien untuk mencapai tujuan bersama, menciptakan sinergi yang saling mendukung dan memperkuat hasil yang lebih optimal.",
       color: "from-purple-400 to-purple-600",
