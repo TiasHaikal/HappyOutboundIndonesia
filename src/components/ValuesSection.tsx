@@ -27,21 +27,21 @@ export default function ValuesSection() {
     },
     {
       icon: "🤝",
-      title: "Integritas",
+      title: "Integrity",
       description:
         "Jujur, konsisten, dan bertanggung jawab. Menjunjung tinggi kejujuran dalam tindakan, konsistensi dalam pelayanan, serta tanggung jawab penuh terhadap setiap proses dan hasil yang diberikan kepada klien maupun peserta.",
       color: "from-green-400 to-green-600",
     },
     {
       icon: "👥",
-      title: "Kolaborasi",
+      title: "Collaboration",
       description:
         "Sinergi, kebersamaan, dan saling menguatkan. Membangun kerja sama yang solid antara peserta, fasilitator, dan klien untuk mencapai tujuan bersama, menciptakan sinergi yang saling mendukung dan memperkuat hasil yang lebih optimal.",
       color: "from-purple-400 to-purple-600",
     },
     {
       icon: "🔄",
-      title: "Adaptif",
+      title: "Adaptive",
       description:
         "Fleksibel, Responsif, dan Tangguh Mampu menyesuaikan diri dengan perubahan, kebutuhan klien, serta dinamika situasi, dengan tetap menjaga kualitas layanan dan menghadirkan solusi yang tepat dan efektif.",
       color: "from-teal-400 to-teal-600",

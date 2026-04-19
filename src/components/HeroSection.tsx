@@ -77,10 +77,8 @@ export default function HeroSection() {
             variants={itemVariants}
             className="text-5xl md:text-7xl font-bold text-white leading-tight"
           >
-            Jasa Outbound Lampung
-            <span className="block text-yellow-300">
-              Happy Outbound Indonesia
-            </span>
+            Jasa Outbound &
+            <span className="block text-yellow-300">Event Lampung</span>
           </motion.h1>
 
           {/* Description */}
@@ -88,10 +86,10 @@ export default function HeroSection() {
             variants={itemVariants}
             className="text-xl md:text-2xl text-white/90 max-w-3xl mx-auto"
           >
-            Penyedia jasa outbound Lampung profesional untuk perusahaan,
-            sekolah, dan gathering. Kami menghadirkan program team building, fun
-            games, dan event organizer terbaik di Lampung untuk membangun tim
-            yang solid dan produktif.
+            Penyedia jasa event organizer profesional untuk Perusahaan,
+            instansi, pemerintahan dan lembaga pendidikan. Kami menghadirkan
+            program event organizer, training, outbound dan perjalanan wisata
+            terbaik di Lampung dengan membangun tim yang solid dan profesional.
           </motion.p>
 
           {/* CTA */}
@@ -130,10 +128,10 @@ export default function HeroSection() {
             className="grid grid-cols-2 md:grid-cols-4 gap-8 pt-16"
           >
             {[
-              { number: "500+", label: "Event Outbound di Lampung" },
-              { number: "50K+", label: "Peserta Training" },
-              { number: "200+", label: "Klien Puas" },
-              { number: "10+", label: "Tahun Pengalaman" },
+              { number: "250+", label: "Event Outbound di Lampung" },
+              { number: "5K+", label: "Peserta Kegiatan" },
+              { number: "150+", label: "Perjalanan Wisata Luar Daerah" },
+              { number: "5+", label: "Tahun Pengalaman" },
             ].map((stat, index) => (
               <motion.div
                 key={index}

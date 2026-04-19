@@ -109,8 +109,8 @@ export default function VisionMissionSection() {
             </motion.div>
             <h3 className="text-3xl font-bold text-gray-900 mb-4">Visi</h3>
             <p className="text-gray-600 text-lg leading-relaxed text-justify">
-              Menjadi perusahaan outbound dan pengembangan sumber daya manusia
-              terdepan di Indonesia yang menghadirkan pengalaman{" "}
+              Menjadi perusahaan pengembangan sumber daya manusia terdepan
+              di Indonesia yang menghadirkan pengalaman{" "}
               <span className="text-primary-600 font-semibold">
                 aktif (Active)
               </span>

@@ -117,11 +117,12 @@ export default function OrganizationSection() {
               </span>
               <div className="flex justify-center flex-wrap gap-2 mt-3">
                 {[
+                  "Active",
                   "Fun",
-                  "Reflective",
-                  "Inspiring",
-                  "Strategic",
-                  "Transformative",
+                  "Deep Experience",
+                  "Integrity",
+                  "Collaborative",
+                  "Adaptive",
                 ].map((word, i) => (
                   <span
                     key={i}
@@ -147,15 +148,7 @@ export default function OrganizationSection() {
             transition={{ duration: 0.8 }}
           >
             {/* Identitas — pola sama seperti AboutSection */}
-            <motion.span
-              className="text-white font-semibold text-sm uppercase tracking-wider"
-              initial={{ opacity: 0, x: 20 }}
-              whileInView={{ opacity: 1, x: 0 }}
-              viewport={{ once: true }}
-              transition={{ delay: 0.2 }}
-            >
-              Tentang Kak Ricky
-            </motion.span>
+
             <motion.h3
               className="text-4xl md:text-5xl font-bold text-white mt-4 mb-6"
               initial={{ opacity: 0, y: 20 }}

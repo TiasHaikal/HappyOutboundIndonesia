@@ -112,7 +112,7 @@ export default function AboutSection() {
               viewport={{ once: true }}
               transition={{ delay: 0.3 }}
             >
-              HAPPY OUTBOUND INDONESIA
+              PT. HAPPY OUTBOUND INDONESIA
             </motion.h2>
             <motion.p
               className="text-gray-600 text-lg leading-relaxed mb-6 text-justify"
@@ -137,7 +137,7 @@ export default function AboutSection() {
               Sejak awal beroperasi, HAPPY OUTBOUND INDONESIA telah tumbuh
               menjadi salah satu pemimpin dalam industri event ini. Kami telah
               berhasil menyelenggarakan ratusan event yang sukses untuk berbagai
-              perusahaan, institusi pendidikan, dan organisasi nirlaba.
+              perusahaan, instansi, pemerintahan dan lembaga pendidikan.
               Pengalaman yang kami kumpulkan selama bertahun-tahun telah
               memungkinkan kami untuk terus mengembangkan program-program
               kreatif dan efektif yang menghasilkan dampak positif bagi setiap
